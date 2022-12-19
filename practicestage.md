@@ -1,0 +1,1 @@
+DevOps orientation modules was an amazing experience for me. I gained lot of insights about DevOps and the processes done with GitHub, gitlab, by doing. Have never used Gitlab Before like other service that I have had use such as K8s and jenkins Gitlab was kind of new thing that I was hesitant to try for but now I have understood it for some Level. Thank You!
